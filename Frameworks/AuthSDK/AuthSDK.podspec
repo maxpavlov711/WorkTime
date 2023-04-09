@@ -15,4 +15,5 @@ Pod::Spec.new do |spec|
 
 
   spec.dependency 'R.swift'
+  spec.dependency 'UIComponents'
 end
